@@ -1,9 +1,5 @@
 Wanna say thanks to Yang Zou,a fantastic job.
 
-## Computer Science Roadmap 
-
-- [x] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
-
 ### Intro to CS
 
 - [ ] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
@@ -13,7 +9,7 @@ Wanna say thanks to Yang Zou,a fantastic job.
 ### Programming
 
 - [x] [CS61A - Structure and Interpretation of Computer Programs (Python + Scheme) - UC Berkeley](http://cs61a.org/)
-- [x] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
+- [ ] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
 - [ ] [CS106B - Programming Abstractions (C++) - Stanford](https://see.stanford.edu/Course/CS106B)
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)
 - [ ] [CSE341 - Programming Languages, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
@@ -28,7 +24,7 @@ Wanna say thanks to Yang Zou,a fantastic job.
     - [ ] [18.03 - Differential Equations, Spring 2010 - MIT](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
 
 - **Linear Algebra**
-    - [x] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+    - [ ] [18.06 - Linear Algebra, Fall 2011 - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
     - [ ] [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/index.html)
 
 - **Probability and Statistics**
@@ -40,7 +36,7 @@ Wanna say thanks to Yang Zou,a fantastic job.
     - [ ] [AM207 - Stochastic Methods for Data Analysis, Inference and Optimization, 2016 - Harvard](http://am207.github.io/2016/index.html)
 
 -  **Discrete Maths**
-    - [x] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+    - [ ] [6.042J - Mathematics for Computer Science, Fall 2010 - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 -  **Opmitisation**
     - [ ] [EE364A - Convex Optimization I - Stanford](https://see.stanford.edu/Course/EE364A)

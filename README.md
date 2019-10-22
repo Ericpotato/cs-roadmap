@@ -9,6 +9,7 @@ Wanna say thanks to Yang Zou,a fantastic job.
 ### Programming
 
 - [x] [CS61A - Structure and Interpretation of Computer Programs (Python + Scheme) - UC Berkeley](http://cs61a.org/)
+  An very helpful CS beginning course. 
 - [ ] [CS106A - Programming Methodology (Java) - Stanford](https://see.stanford.edu/Course/CS106A)
 - [ ] [CS106B - Programming Abstractions (C++) - Stanford](https://see.stanford.edu/Course/CS106B)
 - [ ] [CS107 - Programming Paradigms - Stanford](https://see.stanford.edu/Course/CS107)

@@ -1,5 +1,3 @@
-Wanna say thanks to Yang Zou,a fantastic job.
-
 ### Intro to CS
 
 - [ ] [CS50 - Introduction to Computer Science - Harvard](cs50.tv/)
